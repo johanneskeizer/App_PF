@@ -1,0 +1,11 @@
+[
+  {
+    "id": "a7804247-d50e-4285-b4b7-17ab7e14c95d",
+    "date": "2025-08-12 14:28",
+    "descriptor": "blood pressure",
+    "dimension": "mmHg",
+    "value": "118/77",
+    "systolic": 118,
+    "diastolic": 77
+  }
+]
