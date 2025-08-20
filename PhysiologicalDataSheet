@@ -1,0 +1,18 @@
+Person:Johannes  Keizer
+Data: automatic  editable
+Weight            73     kg
+Sleep              5     h
+Steps              5     km
+Blood pressure
+systolic        120     mmHg
+diastolic        80     mmHg
+Glucose min       4     mmol/l
+Glucose max       7     mmol/l
+Hartbeat min    45      bpm
+heartbeat med   67      bpm
+heartbeatmax    150     bpm
+Cholesterol     4       mmol/l
+LDL
+HDL
+Triglycerides   1.2     mmol/LDL
+OxygenSaturation 98     %

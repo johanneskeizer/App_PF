@@ -1,0 +1,79 @@
+[
+  {
+    "id": "8583ea18-21f2-4b7a-ba1e-82a3c87de403",
+    "date": "2025-08-17 06:50",
+    "descriptor": "blood pressure",
+    "dimension": "mmHg",
+    "value": "115/70",
+    "systolic": 115,
+    "diastolic": 70
+  },
+  {
+    "id": "4dbdf599-ae5b-49ef-91c0-faf958441e7f",
+    "date": "2025-08-17 13:21",
+    "descriptor": "blood pressure",
+    "dimension": "mmHg",
+    "value": "178/78",
+    "systolic": 178,
+    "diastolic": 78
+  },
+  {
+    "id": "dc8f56d6-899c-475e-b71d-b9e44b84df04",
+    "date": "2025-08-17 14:13",
+    "descriptor": "blood pressure",
+    "dimension": "mmHg",
+    "value": "128/88",
+    "systolic": 128,
+    "diastolic": 88
+  },
+  {
+    "id": "fbe83d6b-0a3a-410c-bc89-ae0535e388e7",
+    "date": "2025-08-17 14:15",
+    "descriptor": "cholesterol",
+    "dimension": "mmol/L",
+    "value": 4.1
+  },
+  {
+    "id": "8b51f057-7507-4c5f-80c6-44e705a694ea",
+    "date": "2025-08-17 14:56",
+    "descriptor": "cholesterol",
+    "dimension": "mmol/L",
+    "value": 3.9
+  },
+  {
+    "id": "4d5e2909-d796-4cc1-953a-5f3961a0c1d6",
+    "date": "2025-08-19 13:57",
+    "descriptor": "blood pressure",
+    "dimension": "mmHg",
+    "value": "112/70",
+    "systolic": 112,
+    "diastolic": 70
+  },
+  {
+    "id": "1c006bfb-e676-4a61-9eb5-d99dae13a859",
+    "date": "2025-07-01 13:58",
+    "descriptor": "blood pressure",
+    "dimension": "mmHg",
+    "value": "120/85",
+    "systolic": 120,
+    "diastolic": 85
+  },
+  {
+    "id": "48d2e3ac-79f0-4ccf-ae9f-527a58831667",
+    "date": "2025-07-01 13:59",
+    "descriptor": "blood pressure",
+    "dimension": "mmHg",
+    "value": "115/85",
+    "systolic": 115,
+    "diastolic": 85
+  },
+  {
+    "id": "3a5c1745-d591-4eff-a665-e2e43801df56",
+    "date": "2025-07-01 13:59",
+    "descriptor": "blood pressure",
+    "dimension": "mmHg",
+    "value": "115/76",
+    "systolic": 115,
+    "diastolic": 76
+  }
+]

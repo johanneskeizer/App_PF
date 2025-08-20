@@ -1,0 +1,38 @@
+{
+  "weight": [
+    "kg"
+  ],
+  "height": [
+    "cm",
+    "m"
+  ],
+  "glucose": [
+    "mg/dL",
+    "mmol/L"
+  ],
+  "cholesterol": [
+    "mg/dL",
+    "mmol/L"
+  ],
+  "hdl": [
+    "mg/dL",
+    "mmol/L"
+  ],
+  "ldl": [
+    "mg/dL",
+    "mmol/L"
+  ],
+  "triglycerides": [
+    "mg/dL",
+    "mmol/L"
+  ],
+  "blood pressure": [
+    "mmHg"
+  ],
+  "bp": [
+    "mmHg"
+  ],
+  "sleep": [
+    "h"
+  ]
+}

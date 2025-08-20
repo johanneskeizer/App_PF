@@ -1,0 +1,13 @@
+streamlit
+openai>=1.40.0
+pinecone
+python-dotenv
+tiktoken
+pypdf
+striprtf>=0.0.26
+pytesseract>=0.3.10
+pdf2image>=1.17.0
+pillow>=10.2.0
+pandas>=2.2.0
+python-docx>=0.8.11
+pyyaml

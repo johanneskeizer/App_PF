@@ -1,0 +1,5 @@
+WP_BASE_URL: "https://wuhan-umbria.com"
+WP_USERNAME: "keizer"
+WP_APP_PASSWORD: "jkpwWHUB_1955"
+DEFAULT_TITLE: "Post from CPA"
+POST_STATUS: "draft"   # or "publish"

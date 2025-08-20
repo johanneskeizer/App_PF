@@ -1,0 +1,85 @@
+[
+  {
+    "id": "a7804247-d50e-4285-b4b7-17ab7e14c95d",
+    "date": "2025-08-12 14:28",
+    "descriptor": "blood pressure",
+    "dimension": "mmHg",
+    "value": "118/77",
+    "systolic": 118,
+    "diastolic": 77
+  },
+  {
+    "id": "2037b03a-82f3-44a2-a7ba-de115dc01029",
+    "date": "2025-08-12 17:26",
+    "descriptor": "cholesterol",
+    "dimension": "mmol/L",
+    "value": 4.2
+  },
+  {
+    "id": "977e811e-6ca4-49a3-bfcd-06a8261fd0ee",
+    "date": "2025-08-13 06:07",
+    "descriptor": "blood pressure",
+    "dimension": "mmHg",
+    "value": "120/83",
+    "systolic": 120,
+    "diastolic": 83
+  },
+  {
+    "id": "1cc39140-b824-4de4-adad-88f61070770e",
+    "date": "2025-08-13 06:09",
+    "descriptor": "sleep",
+    "dimension": "h",
+    "value": 5.0
+  },
+  {
+    "id": "d2340aa4-f802-437a-8c45-9094c01435e0",
+    "date": "2025-08-11 06:17",
+    "descriptor": "sleep",
+    "dimension": "h",
+    "value": 4.0
+  },
+  {
+    "id": "06635741-1457-49d5-b3af-d9b9664775da",
+    "date": "2025-08-09 06:17",
+    "descriptor": "sleep",
+    "dimension": "h",
+    "value": 3.5
+  },
+  {
+    "id": "b4640151-67f4-41a4-bb4b-d1b810993913",
+    "date": "2025-08-07 06:18",
+    "descriptor": "sleep",
+    "dimension": "h",
+    "value": 4.5
+  },
+  {
+    "id": "4a9e1af5-f710-49dc-9959-e5d8c3532d31",
+    "date": "2025-08-05 06:18",
+    "descriptor": "sleep",
+    "dimension": "h",
+    "value": 5.0
+  },
+  {
+    "id": "40917b1c-cc66-4768-8465-6ba70ece802b",
+    "date": "2025-08-06 06:58",
+    "descriptor": "blood pressure",
+    "dimension": "mmHg",
+    "value": "125/83",
+    "systolic": 125,
+    "diastolic": 83
+  },
+  {
+    "id": "448f1026-5f1e-469b-8a3b-8c336d14734f",
+    "date": "2025-08-06 07:01",
+    "descriptor": "cholesterol",
+    "dimension": "mmol/L",
+    "value": 4.6
+  },
+  {
+    "id": "6cdc2ed3-fdd4-45ca-aa64-0d136f12f5a6",
+    "date": "2025-08-13 07:02",
+    "descriptor": "cholesterol",
+    "dimension": "mmol/L",
+    "value": 4.6
+  }
+]
