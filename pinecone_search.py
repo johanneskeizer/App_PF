@@ -6,6 +6,7 @@ from uuid import uuid4
 from dotenv import load_dotenv, dotenv_values
 from openai import OpenAI
 from pinecone import Pinecone
+from embeddings import embed_with
 
 HISTORY_PATH = Path("config/history.json")
 

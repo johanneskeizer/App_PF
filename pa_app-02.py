@@ -6,6 +6,7 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 from dotenv import load_dotenv
+from embeddings import embed_with
 
 if "view" not in st.session_state:
     st.session_state["view"] = "tabs"
